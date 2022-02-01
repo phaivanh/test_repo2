@@ -1,0 +1,369 @@
+#  Doesn't look like text
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..FloatFormat
+#: Form/UFrmMain.dfm:3880
+msgid "%.2f"
+msgstr ""
+
+#  Doesn't have any letters
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..PrintSettings.PageNumSep
+#: Form/UFrmMain.dfm:3906
+msgid "/"
+msgstr ""
+
+#  Doesn't have any letters
+#. FrmSettings..FolderDialog1..Version
+#: Form/uFrmSettings.dfm:838
+msgid "1.1.4.0"
+msgstr ""
+
+#  Doesn't have any letters
+#. frmWorkNCInterface..pnl1..pnl2....pnl5..advpctr2..Version
+#: Form/UFrmMain.dfm:3522
+#. frmWorkNCInterface..pnl1..pnl2..pnl7....pnl4..advpctr1..Version
+#: Form/UFrmMain.dfm:3582
+#. frmWorkNCInterface..pnl1..pnl2..pnl7..pnl8....pnl9..advpctr4..Version
+#: Form/UFrmMain.dfm:3642
+msgid "1.5.0.0"
+msgstr ""
+
+#  Doesn't have any letters
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..Version
+#: Form/UFrmMain.dfm:3922
+msgid "2.4.1.9"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:4089
+#. frmWorkNCInterface..fdqry1..fdqry1assembly_code..FieldName
+#: Form/UFrmMain.dfm:4414
+msgid "assembly_code"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fdqry1assembly_desc..FieldName
+#: Form/UFrmMain.dfm:4429
+msgid "assembly_desc"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fdqry1assembly_id..FieldName
+#: Form/UFrmMain.dfm:4405
+msgid "assembly_id"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:4063
+#. frmWorkNCInterface..fdqry1..company_code..FieldName
+#: Form/UFrmMain.dfm:4402
+msgid "company_code"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:4142
+#. frmWorkNCInterface..fdqry1..dtfldfdqry1delay..FieldName
+#: Form/UFrmMain.dfm:4417
+msgid "delay"
+msgstr ""
+
+#  Doesn't look like text
+#. frmWorkNCInterface..Caption
+#: Form/UFrmMain.dfm:4
+msgid "Form1"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:4037
+#. frmWorkNCInterface..fdqry1..fdqry1Job_code..FieldName
+#: Form/UFrmMain.dfm:4399
+msgid "Job_code"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fdqry1line_code..FieldName
+#: Form/UFrmMain.dfm:4426
+msgid "line_code"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:4115
+#. frmWorkNCInterface..fdqry1..fdqry1line_desc..FieldName
+#: Form/UFrmMain.dfm:4433
+msgid "line_desc"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..dtfldfdqry1line_job_delay..FieldName
+#: Form/UFrmMain.dfm:4411
+msgid "line_job_delay"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fdqry1line_job_id..FieldName
+#: Form/UFrmMain.dfm:4408
+msgid "line_job_id"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fmtbcdfldfdqry1line_hob_qty..FieldName
+#: Form/UFrmMain.dfm:4420
+msgid "line_job_qty"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fdqry1project_desc..FieldName
+#: Form/UFrmMain.dfm:4437
+msgid "project_desc"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:4011
+#. frmWorkNCInterface..fdqry1..fdqry1service_code..FieldName
+#: Form/UFrmMain.dfm:4396
+msgid "service_code"
+msgstr ""
+
+#  Seems like a Font.Name extract
+#. frmWorkNCInterface..Font.Name
+#: Form/UFrmMain.dfm:11
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..ActiveCellFont.Name
+#: Form/UFrmMain.dfm:3833
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..ControlLook.DropDownHeader.Font.Name
+#: Form/UFrmMain.dfm:3842
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..ControlLook.DropDownFooter.Font.Name
+#: Form/UFrmMain.dfm:3849
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..FilterDropDown.Font.Name
+#: Form/UFrmMain.dfm:3858
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..FixedFont.Name
+#: Form/UFrmMain.dfm:3878
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..PrintSettings.Font.Name
+#: Form/UFrmMain.dfm:3889
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..PrintSettings.FixedFont.Name
+#: Form/UFrmMain.dfm:3894
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..PrintSettings.HeaderFont.Name
+#: Form/UFrmMain.dfm:3899
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..PrintSettings.FooterFont.Name
+#: Form/UFrmMain.dfm:3904
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1..SearchFooter.Font.Name
+#: Form/UFrmMain.dfm:3912
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:3935
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:3940
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:3946
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:3962
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:3968
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:3974
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:3989
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:3995
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4001
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:4015
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:4021
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4027
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:4041
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:4047
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4053
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:4067
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:4073
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4079
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:4093
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:4099
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4105
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:4119
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:4125
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4131
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......Font.Name
+#: Form/UFrmMain.dfm:4146
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......HeaderFont.Name
+#: Form/UFrmMain.dfm:4152
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......PrintFont.Name
+#: Form/UFrmMain.dfm:4158
+#. FrmSettings..AdvOfficePager1..tabExportMatiere..TabAppearance.Font.Name
+#: Form/uFrmSettings.dfm:399
+#. FrmSettings..AdvOfficePager1..tabConfig..TabAppearance.Font.Name
+#: Form/uFrmSettings.dfm:463
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlHost..Font.Name
+#: Form/uFrmSettings.dfm:522
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlHost..lblHost..Font.Name
+#: Form/uFrmSettings.dfm:539
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlHost..edtHost..Font.Name
+#: Form/uFrmSettings.dfm:551
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlPort..Font.Name
+#: Form/uFrmSettings.dfm:572
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlPort..lblPort..Font.Name
+#: Form/uFrmSettings.dfm:589
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlPort..edtPort..Font.Name
+#: Form/uFrmSettings.dfm:601
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlCharset..Font.Name
+#: Form/uFrmSettings.dfm:622
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlCharset..lblCharset..Font.Name
+#: Form/uFrmSettings.dfm:638
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnlCharset..cbbCharset..Font.Name
+#: Form/uFrmSettings.dfm:653
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnl1..Font.Name
+#: Form/uFrmSettings.dfm:671
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnl1..lblDBName..Font.Name
+#: Form/uFrmSettings.dfm:688
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlConnectionDetail..pnl1..edtDBName..Font.Name
+#: Form/uFrmSettings.dfm:700
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnl_section_Employee..Font.Name
+#: Form/uFrmSettings.dfm:725
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlEmployeeDetail..pnlEmployeeName..Font.Name
+#: Form/uFrmSettings.dfm:763
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlEmployeeDetail..pnlEmployeeName..lblEmployeeName..Font.Name
+#: Form/uFrmSettings.dfm:781
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnlEmployeeDetail..pnlEmployeeName..cbbEmployeeName..Font.Name
+#: Form/uFrmSettings.dfm:799
+#. FrmSettings..AdvOfficePager1..tabConfig..pnlMainConfig..pnl17..Font.Name
+#: Form/uFrmSettings.dfm:825
+#. FrmSettings..AdvOfficePagerOfficeStyler1..TabAppearance.Font.Name
+#: Form/uFrmSettings.dfm:907
+#. FrmBase..Font.Name
+#: Form/Generics/uFrmBase.dfm:11
+msgid "Tahoma"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:3985
+#. frmWorkNCInterface..fdqry1..fdqry1task_description..FieldName
+#: Form/UFrmMain.dfm:4392
+msgid "task_description"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..pnl1..pnl3..dbdvgrd1......FieldName
+#: Form/UFrmMain.dfm:3958
+#. frmWorkNCInterface..fdqry1..task_id..FieldName
+#: Form/UFrmMain.dfm:4389
+msgid "task_id"
+msgstr ""
+
+#  Seems like a Database field name or index field name
+#. frmWorkNCInterface..fdqry1..fmtbcdfldfdqry1task_qty..FieldName
+#: Form/UFrmMain.dfm:4423
+msgid "task_qty"
+msgstr ""
+
+msgid "Starts with"
+msgstr ""
+
+msgid "Ends with"
+msgstr ""
+
+msgid "Checked"
+msgstr ""
+
+msgid "Unchecked"
+msgstr ""
+
+msgid "Contains"
+msgstr ""
+
+msgid "Not contains"
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "(All)"
+msgstr ""
+
+msgid "Equal"
+msgstr ""
+
+msgid "Not equal"
+msgstr ""
+
+msgid "Larger than"
+msgstr ""
+
+msgid "Smaller than"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "images"
+msgstr ""
+
+msgid "img"
+msgstr ""
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Find next occurrence"
+msgstr ""
+
+msgid "Find previous occurrence"
+msgstr ""
+
+msgid "Highlight occurrences"
+msgstr ""
+
+msgid "Match case"
+msgstr ""
+
+msgid "Explorer"
+msgstr ""
+
+msgid "Insert new page"
+msgstr ""
+
+msgid "Page List"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Closed Pages"
+msgstr ""
+
+msgid "aaa"
+msgstr ""
+
+msgid "AutoBom"
+msgstr ""
+
+msgid "Find &next"
+msgstr ""
+
+msgid "Find &previous"
+msgstr ""
+
+
+
